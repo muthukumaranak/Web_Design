@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background-color: #eeeeee;
+    margin: 30px 20px;
+}
+
+h1, h4, h3{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: auto;
+    width: 100%;
+}
+
+h1{
+    padding-top: 40px;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  #img-div {
+    position: relative;
+    background: #ffffff;
+    padding: 10px;
+    margin: 20px;
+  }
+
+  .heading{
+    padding-bottom: 40px;
+    text-align: center;
+    width: 100%;
+  }
+
+  ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+  }
+  
+  li {
+    margin: 16px 0;
+    font-size: 18px;
+  }
+
+  .quoted li{
+      margin: 16px 0;
+      font-size: 18px;
+      font-style: italic;
+      list-style: none;
+  }
+
+  
+
+h3{
+    font-size: 20px;
+}
+
+#tribute a{
+    margin-bottom: 100px;
+}
+
